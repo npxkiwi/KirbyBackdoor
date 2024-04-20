@@ -1,11 +1,22 @@
 
 🪐 Kirby Backdoor 🪐
 
+Danish
 Notepad og Kiwi har ikke hacket din VPS. Vi har bare lavet scriptet.
 
 Hvordan fjerner jeg Kirby Backdoor?
 Der er ikke rigtig nogen måde og fjerne Kirby Backdoor. Du kan jo prøve og ændre koden til din VPS men det hjælper nok ikke - Sorry.
 
 Hvis du skal bruge hjælp kan du kontakt Notepad og Kiwi over discord!
+Notepad - ._.notepad
+Kiwi - kiwiimmadoyoudirty
+
+English
+Notepad and Kiwi have not hacked your VPS. We just made the script.
+
+How do I remove Kirby Backdoor?
+There isn't really any way to remove Kirby Backdoor. You can try and change the code for your VPS, but that probably won't help - Sorry.
+
+If you need help, you can contact Notepad and Kiwi over discord!
 Notepad - ._.notepad
 Kiwi - kiwiimmadoyoudirty
