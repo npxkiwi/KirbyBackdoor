@@ -20,6 +20,13 @@ It is very simple
 * Paste the entire code
 * Lua obfuscate the file
 
+# French
+### Comment utiliser KirbyBackdoor
+C'est très simple
+* Effectuez vos réglages
+* Trouvez votre serveur.lua
+* Collez tout le code
+* Le fichier Lua obfuscator
 
 ### Credit
 * Notepad
